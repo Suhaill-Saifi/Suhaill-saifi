@@ -1,9 +1,11 @@
 
-![image](https://github.com/Suhaill-Saifi/Suhaill-saifi/assets/114340669/9b476569-41d7-4df5-9138-273e400bf35e)
+
 
 
 <h1 align="center">Hi 👋, I'm Suhail saifi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+
+<img align="right" alt="coding" width="400"  src="https://github.com/Suhaill-Saifi/Suhaill-saifi/assets/114340669/9b476569-41d7-4df5-9138-273e400bf35e"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaill-saifi&label=Profile%20views&color=0e75b6&style=flat" alt="suhaill-saifi" /> </p>
 
