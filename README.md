@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **saifism0786@gmail.com**
 
-- 📄 Know about my experiences [--](--)
-
 - ⚡ Fun fact **Meh..**
 
 <h3 align="left">Connect with me:</h3>
